@@ -1,0 +1,7 @@
+version: 0.0
+os:
+  - linux
+  - windows
+files:
+  - source: /
+    destination: /home/ec2-user/build/
